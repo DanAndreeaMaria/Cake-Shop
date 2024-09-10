@@ -62,7 +62,7 @@ a:link {
 
 @media screen and (max-width: 1200px) {
     li {
-        padding: 15px;
+        padding: 5px;
     }
     .list-menu {
         padding-left: 0;
