@@ -14,7 +14,7 @@ This project is a visually appealing and user-friendly cake shop webpage built u
 ## Technologies used
 
   * **HTML5:** For structuring the webpage
-  * **CSS3:* For styling, including responsive design and animations
+  * **CSS3:** For styling, including responsive design and animations
 
 ## Responsive design
 
